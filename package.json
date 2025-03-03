@@ -1,0 +1,17 @@
+{
+  "name": "datamanagement",
+  "version": "1.0.0",
+  "description": "practicing data mangement with built in FS module",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Muhammad Muneeb",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "uuid": "^11.1.0"
+  }
+}
